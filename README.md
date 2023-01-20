@@ -25,7 +25,7 @@
 
 ### 👨‍💻 About Me:
 
-- 👷‍♂️	2nd Year student at the Polytechnic University of Bucharest
+- 👷‍♂️	3rd Year student at the Polytechnic University of Bucharest
 - 📚 Books lover
 - 🛰️ IT Enthusiast 
 - ⚡ Active volunteer 
