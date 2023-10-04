@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://64.media.tumblr.com/a0327431d3a28ea89ce3c7fb7a6b5899/tumblr_op5wogT62C1wo8ldmo1_500.gifv" width="300"/>
+  <img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="300"/>
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/alexandra-liferi-0b1361206/">
