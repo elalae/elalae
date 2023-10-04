@@ -25,7 +25,8 @@
 
 ### 👨‍💻 About Me:
 
-- 👷‍♂️	3rd Year student at the Polytechnic University of Bucharest
+- 👷‍♂️	4th Year student at the Polytechnic University of Bucharest
 - 📚 Books lover
 - 🛰️ IT Enthusiast 
-- ⚡ Active volunteer 
+- ⚡ Active volunteer
+- 😶‍🌫️ Tier 1 Cybersecurity Analyst
