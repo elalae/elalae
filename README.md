@@ -25,8 +25,7 @@
 
 ### 👨‍💻 About Me:
 
-- 👷‍♂️	4th Year student at the Polytechnic University of Bucharest
 - 📚 Books lover
 - 🛰️ IT Enthusiast 
 - ⚡ Active volunteer
-- 😶‍🌫️ Tier 1 Cybersecurity Analyst
+- 😶‍🌫️ CRM Developer
